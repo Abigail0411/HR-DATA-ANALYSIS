@@ -85,7 +85,7 @@ HR has the least attrition count but with most of them very dissatisfied with th
 ### Strategic Recommendations
 - The HR team in the company should enhance career development opportunities for the R&D department by providing training programs, mentorship and clear paths for promotions to encourage the employees.
 - They should also adjust salaries and incentives to motivate the employees leading to retaintion.
-- 
+- For the Sales department: Restructuring sales incentives to align with achievable targetds and reward high performers adequately.
 
 Increasing staffs for HR to help reduce workload so as to increase their ability to focus on strategic initiatives.
 
