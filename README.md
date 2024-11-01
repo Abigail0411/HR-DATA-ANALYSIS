@@ -78,11 +78,14 @@ The HR team should request for regular feedback so as to shape the workplace in 
 Conclusion
 Addressing dissatisfaction drivers and maintaining satisfaction among the roles will lead to a more motivated and stable workforce.
 Attrition by department
-Overview of Attrition Patterns:
+Inferences
 Research & Development: Has the highest attrition rate with more of the employees satisfied with their Job. This may indicate or suggest lack of clear career  growth or the perception of Limited growth in the company.
 Sales: The attrition count could arise from the stress that comes with high performance expectations and the pressures  to meet  quotas. 
 HR has the least attrition count but with most of them very dissatisfied with the job.  This could indicate emotional  fatigue, workload or burnout due to the fact that HR personnels manage the difficult conversations and are  expected to handle all issue pertaining the employees’ behavior. 
-
+### Strategic Recommendations
+- The HR team in the company should enhance career development opportunities for the R&D department by providing training programs, mentorship and clear paths for promotions to encourage the employees.
+- They should also adjust salaries and incentives to motivate the employees leading to retaintion.
+- 
 
 Increasing staffs for HR to help reduce workload so as to increase their ability to focus on strategic initiatives.
 
