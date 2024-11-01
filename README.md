@@ -84,8 +84,10 @@ Sales: The attrition count could arise from the stress that comes with high perf
 HR has the least attrition count but with most of them very dissatisfied with the job.  This could indicate emotional  fatigue, workload or burnout due to the fact that HR personnels manage the difficult conversations and are  expected to handle all issue pertaining the employees’ behavior. 
 ### Strategic Recommendations
 - The HR team in the company should enhance career development opportunities for the R&D department by providing training programs, mentorship and clear paths for promotions to encourage the employees.
-- They should also adjust salaries and incentives to motivate the employees leading to retaintion.
+- They should also adjust salaries and incentives to motivate the employees leading to retention.
 - For the Sales department: Restructuring sales incentives to align with achievable targetds and reward high performers adequately.
+### iii. Conclusion
+Addressing attrition in each departments requires a targeted approach tailored to each department's needs. The recommendations stated above should be implemented to ensure long-term retention.
 
 Increasing staffs for HR to help reduce workload so as to increase their ability to focus on strategic initiatives.
 
