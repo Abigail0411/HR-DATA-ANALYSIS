@@ -86,10 +86,20 @@ HR has the least attrition count but with most of them very dissatisfied with th
 - The HR team in the company should enhance career development opportunities for the R&D department by providing training programs, mentorship and clear paths for promotions to encourage the employees.
 - They should also adjust salaries and incentives to motivate the employees leading to retention.
 - For the Sales department: Restructuring sales incentives to align with achievable targetds and reward high performers adequately.
+- Consider increasing staffs for HR Department to help reduce workload so as to increase their ability to focus on strategic initiatives.
+
 ### iii. Conclusion
 Addressing attrition in each departments requires a targeted approach tailored to each department's needs. The recommendations stated above should be implemented to ensure long-term retention.
 
-Increasing staffs for HR to help reduce workload so as to increase their ability to focus on strategic initiatives.
 
-Attrition by environment Satisfaction
+## Attrition by environment Satisfaction
+### Inferences
+- More employees that left were very dissatisfied with their work environment, likely due to lack of support by management, issues with work culture or inadequate facilities to work effectively and efficiently
+- The satisfied group probably left the company because of better opportunities and greater rewards.
+### Strategic Recommendations
+Workplace environment satisfaction is very crucial to retaining employees. The following should be taken into consideration and implemented;
+- 
+
+
+
 
