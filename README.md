@@ -89,12 +89,13 @@ Power Bi: Used to create interactive  visualization on dashboard.
 - The HR team should request for regular feedback so as to shape the workplace in a way that would help prevent high levels of dissatisfaction.
 ### iii. Conclusion
 Addressing dissatisfaction drivers and maintaining satisfaction among the roles will lead to a more motivated and stable workforce.
-Attrition by department
-Inferences
-Research & Development: Has the highest attrition rate with more of the employees satisfied with their Job. This may indicate or suggest lack of clear career  growth or the perception of Limited growth in the company.
-Sales: The attrition count could arise from the stress that comes with high performance expectations and the pressures  to meet  quotas. 
-HR has the least attrition count but with most of them very dissatisfied with the job.  This could indicate emotional  fatigue, workload or burnout due to the fact that HR personnels manage the difficult conversations and are  expected to handle all issue pertaining the employees’ behavior. 
-### Strategic Recommendations
+
+## Attrition by department
+## i. Inferences
+- Research & Development: Has the highest attrition rate with more of the employees satisfied with their Job. This may indicate or suggest lack of clear career  growth or the perception of Limited growth in the company.
+- Sales: The attrition count could arise from the stress that comes with high performance expectations and the pressures  to meet  quotas. 
+- HR has the least attrition count but with most of them very dissatisfied with the job.  This could indicate emotional  fatigue, workload or burnout due to the fact that HR personnels manage the difficult conversations and are  expected to handle all issue pertaining the employees’ behavior. 
+### ii. Strategic Recommendations
 - The HR team in the company should enhance career development opportunities for the R&D department by providing training programs, mentorship and clear paths for promotions to encourage the employees.
 - They should also adjust salaries and incentives to motivate the employees leading to retention.
 - For the Sales department: Restructuring sales incentives to align with achievable targetds and reward high performers adequately.
@@ -105,10 +106,10 @@ Addressing attrition in each departments requires a targeted approach tailored t
 
 
 ## Attrition by environment Satisfaction
-### Inferences
+### i. Inferences
 - More employees that left were very dissatisfied with their work environment, likely due to lack of support by management, issues with work culture or inadequate facilities to work effectively and efficiently
 - The satisfied group probably left the company because of better opportunities and greater rewards.
-### Strategic Recommendations
+### ii. Strategic Recommendations
 Workplace environment satisfaction is very crucial to retaining employees. The following should be taken into consideration and implemented;
 - For Very Dissatisfied and Dissatisfied Employees:
    * Improvement of their work space should be considered so as to create a comfortable atmosphere.
@@ -116,13 +117,14 @@ Workplace environment satisfaction is very crucial to retaining employees. The f
 - For Satisfied employees:
    * Offer career development opportunities such as trainging staffs to keep the employees engaged and connected to the growth of the company.
    * Implement regular recognition on achivements and offer rewards to increase their satisfaction.
-Conclusion
+### iii. Conclusion
 Environment satisfaction in workplaces is a critical factor in employees retention. High levels of dissatisfaction lead to greater turnover while satisfaction leads to employee stability. Improving on physical conditions, address specific issues laid out by employees can reduce attrition in a company.
-Attrition by age group and gender
-Inferences
+
+## Attrition by age group and gender
+## i. Inferences
 As shown In the donut chart, male dominated the attrition count with a total of 150 out of 237.
--	Age group Under 25
--	   At this stage, employees are seeking for faster advancements in that they prioritize their experience and might leave if  they do not perceive limited growth in the role they were assigned.
+Age group Under 25
+-	At this stage, employees are seeking for faster advancements in that they prioritize their experience and might leave if  they do not perceive limited growth in the role they were assigned.
 -	In a case where the young employees posses skills that are of high demand such as technology, medical, they tend to receive attractive offers from other companies.
 -	Young employees priorities flexibility and work-life balance and do not like being stressed. If the company does not offer flexible hours of work, they tend to leave.
 
