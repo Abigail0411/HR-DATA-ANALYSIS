@@ -49,9 +49,13 @@ Power Bi: Used to create interactive  visualization on dashboard.
 ## Data Analysis
 •	Dax Functions 
 1.	Measure
-   i. To calculate attrition rate
+   i. To calculate Attrition rate
   	 ```dax
     Attrition Count = Sum(Attrition Count) / Sum(Employee Count)
+    ```
+    ii. To calculate Average age of the employees
+ 	 ```dax
+    Average Age = Avg(Age)
     ```
 3.	Conditional Function
    i. Used to convert Attritiom text to numbers to find the attrition count
