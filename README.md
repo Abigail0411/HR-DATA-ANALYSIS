@@ -22,23 +22,21 @@ The data used was collected from the HR of Cloud Wares company.
   * No. of Training times
   * CF_current employee
   * Daily Rate
+  * Distance from home
+  * Education
+  * Employee Count
+  * Environment satisfaction
+  * Hourly rate
+  * Job Involvement
+  * Job Level
+  * Job Satisfaction
+  * Monthly Income
+  * Monthly rate
+  * No. of Companies Worked for
+  * Percent Salary Hike
+  * Performance rating Relationship Satisfaction
+  * 
 
-•	
-•	
-•	Daily Rate
-•	Distance from home
-•	Education
-•	Employee Count
-•	Environment satisfaction
-•	Hourly rate
-•	Job Involvement
-•	Job Level
-•	Job Satisfaction
-•	Monthly Income
-•	Monthly rate
-•	No. of Companies Worked for
-•	Percent Salary Hike
-•	Performance rating Relationship Satisfaction
 •	Standard Hours
 •	Total Working Years
 •	Stock Option Level
