@@ -137,19 +137,14 @@ As shown In the donut chart, male dominated the attrition count with a total of 
 - #### Age group 45-54
    * Attrition in this age group may indicate them not feeling satisfied work or the roles are not aligning to their expertise or due to them not having promotions or leadership roles.
    *It might also indicate that the compensation they receive does not meet their financial responsibility.
-
-Age group Over 55
-This age group has the least attrition. At the age, attrition my indicate that 
-the employees are ready and willing to retire and may want to work with flexibility.
-
-
-Strategic Recommendations
-
-The HR can consider offering mentorship and skills development for the young employees so as to satisfy their need for career advancements.
-They should benchmark salaries and benefits against industry standards regularly, proving incentives and bonuses to help retain employee.
-Support and provide work-life balance by promoting work options and flexible work hours.
-They should also offer leadership opportunities, professional development programs and also creating a pathway for upward movement within the company for employees aged 45 and above.
- Conclusion
+- #### Age group Over 55
+   * This age group has the least attrition count of 11. At the age, attrition my indicate that the employees are ready and willing to retire and may want to work with flexibility.
+### ii. Strategic Recommendations
+- The HR can consider offering mentorship and skills development for the young employees so as to satisfy their need for career advancements.
+- They should benchmark salaries and benefits against industry standards regularly, proving incentives and bonuses to help retain employee.
+- Support and provide work-life balance by promoting work options and flexible work hours.
+- They should also offer leadership opportunities, professional development programs and also creating a pathway for upward movement within the company for employees aged 45 and above.
+### iii. Conclusion
 Attrition among age group results from the need for stability, work-life balance and financial stability. If all those issues are address then the company will experience less attrition rate.
 
 
