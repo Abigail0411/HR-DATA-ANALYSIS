@@ -15,12 +15,16 @@ The data used was collected from the HR of Cloud Wares company.
   *	Education Field
   * Department
   * Employee Number
-•	Gender
-•	Job Role
-•	Marital Status
-•	Overtime
-•	No. of Training times
-•	CF_current employee
+  * Gender
+  * Job Role
+  * Marital Status
+  * Overtime
+  * No. of Training times
+  * CF_current employee
+  * Daily Rate
+
+•	
+•	
 •	Daily Rate
 •	Distance from home
 •	Education
