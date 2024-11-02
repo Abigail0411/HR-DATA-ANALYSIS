@@ -8,13 +8,13 @@ This project focuses on analyzing factors that contribute to employees attrition
 ## Data Source
 The data used was collected from the HR of Cloud Wares company.
 - Data Collected
-   * Attrition
-- Business Travel
-•	CF_age band
-•	CF_attrition Level
-•	Education Field
-•	Department
-•	Employee Number
+  * Attrition
+  * Business Travel
+  * CF_age band
+  * CF_attrition Level
+  *	Education Field
+  * Department
+  * Employee Number
 •	Gender
 •	Job Role
 •	Marital Status
