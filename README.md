@@ -52,6 +52,7 @@ Power Bi: Used to create interactive  visualization on dashboard.
 2.	Conditional Function
    i. Used to convert Attritiom text to numbers to find the attrition count
   	|Column Name|Operator|Value|Output|
+  	|-----------|--------|------------|
   	|Attrition|equals|Yes|1|
   	Else 0
   	
