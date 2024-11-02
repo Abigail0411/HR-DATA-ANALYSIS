@@ -49,7 +49,10 @@ Power Bi: Used to create interactive  visualization on dashboard.
 ## Data Analysis
 •	Dax Functions 
 1.	Measure
-2.	Conditional Function
+   i. To calculate attrition rate
+  	 ```Sum(Attrition Count) / Sum(Employee Count)
+    ```
+3.	Conditional Function
    i. Used to convert Attritiom text to numbers to find the attrition count
   	|Column Name|Operator|Value|Output|
   	|-----------|--------|------------|
