@@ -132,5 +132,14 @@ This age group has the least attrition. At the age, attrition my indicate that
 the employees are ready and willing to retire and may want to work with flexibility.
 
 
+Strategic Recommendations
+
+The HR can consider offering mentorship and skills development for the young employees so as to satisfy their need for career advancements.
+They should benchmark salaries and benefits against industry standards regularly, proving incentives and bonuses to help retain employee.
+Support and provide work-life balance by promoting work options and flexible work hours.
+They should also offer leadership opportunities, professional development programs and also creating a pathway for upward movement within the company for employees aged 45 and above.
+ Conclusion
+Attrition among age group results from the need for stability, work-life balance and financial stability. If all those issues are address then the company will experience less attrition rate.
+
 
 
