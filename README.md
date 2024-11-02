@@ -50,6 +50,11 @@ Power Bi: Used to create interactive  visualization on dashboard.
 •	Dax Functions 
 1.	Measure
 2.	Conditional Function
+   i. Used to convert Attritiom text to numbers to find the attrition count
+  	|Column Name|Operator|Value|Output|
+  	|Attrition|equals|Yes|1|
+  	Else 0
+  	
 ## Data Visualization analysis, Inferences, strategic recommendations and conclusion
 ## Attrition by Education Field
 ### Inferences
