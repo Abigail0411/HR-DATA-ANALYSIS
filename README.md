@@ -7,9 +7,9 @@ This project focuses on creating a data-driven approach to analyze attrition rat
 This project focuses on analyzing factors that contribute to employees attrition such as the education field, job role and  job satisfaction. It also focuses on identifying and predicting future attrition risk and provide actionable insights and strategic recommendations for HR to improve on employee satisfaction and reduce attrition rates.
 ## Data Source
 The data used was collected from the HR of Cloud Wares company.
-•	Data Collected
-•	Attrition
-•	Business Travel
+- Data Collected
+   * Attrition
+- Business Travel
 •	CF_age band
 •	CF_attrition Level
 •	Education Field
