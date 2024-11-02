@@ -64,8 +64,8 @@ Power Bi: Used to create interactive  visualization on dashboard.
   	|Attrition|equals|Yes|1|
   	Else 0
   	
-## Data Visualization analysis, Inferences, strategic recommendations and conclusion
-## Attrition by Education Field
+## Data Visualization analysis, Inferences, Strategic Recommendations and Conclusion
+## 1. Attrition by Education Field
 ### i. Inferences
 -	Life Sciences and Medical field: High attrition might be due to strees andburnout which might indicate a need for worklife balance. 
 -	Marketing: Marketing often experience moderate attrition rate due to frequent shifts in company focus, client demands and competitive pressure. The attrition by marketing field might be due to high competition.
@@ -79,7 +79,7 @@ Power Bi: Used to create interactive  visualization on dashboard.
 ### iii. Conclusion
 - Effective retention strategies should focus on aligning employee expectations and aspirations, Cloud Wares can create an environment where employees will feel valued and motivated to stay. 
 
-## Attrition count by Job roles and Job satisfaction
+## 2. Attrition count by Job roles and Job satisfaction
 ### i. Inferences
 - Satisfied and Very Satisfied: Most of the employees that left the company were satisfied with their job roles but still left the company. This may be due to the following; better opportunities for roles with greater growth potential, or when they receive attractive offers with higher incentives or changes in personal goals.
 - Dissatisfied and Very Dissatisfied: A total of 46 and68 employees were dissatisfied and very dissatisfied with their roles respectively. This may be due to lack of career growth, imbalance work life or inadequate compensation or incentives. 
@@ -90,7 +90,7 @@ Power Bi: Used to create interactive  visualization on dashboard.
 ### iii. Conclusion
 Addressing dissatisfaction drivers and maintaining satisfaction among the roles will lead to a more motivated and stable workforce.
 
-## Attrition by department
+## 3. Attrition by department
 ## i. Inferences
 - Research & Development: Has the highest attrition rate with more of the employees satisfied with their Job. This may indicate or suggest lack of clear career  growth or the perception of Limited growth in the company.
 - Sales: The attrition count could arise from the stress that comes with high performance expectations and the pressures  to meet  quotas. 
@@ -105,7 +105,7 @@ Addressing dissatisfaction drivers and maintaining satisfaction among the roles 
 Addressing attrition in each departments requires a targeted approach tailored to each department's needs. The recommendations stated above should be implemented to ensure long-term retention.
 
 
-## Attrition by environment Satisfaction
+## 4. Attrition by environment Satisfaction
 ### i. Inferences
 - More employees that left were very dissatisfied with their work environment, likely due to lack of support by management, issues with work culture or inadequate facilities to work effectively and efficiently
 - The satisfied group probably left the company because of better opportunities and greater rewards.
@@ -120,7 +120,7 @@ Workplace environment satisfaction is very crucial to retaining employees. The f
 ### iii. Conclusion
 Environment satisfaction in workplaces is a critical factor in employees retention. High levels of dissatisfaction lead to greater turnover while satisfaction leads to employee stability. Improving on physical conditions, address specific issues laid out by employees can reduce attrition in a company.
 
-## Attrition by age group and gender
+## 5. Attrition by age group and gender
 ## i. Inferences
 As shown In the donut chart, male dominated the attrition count with a total of 150 out of 237.
 - #### Age group Under 25
