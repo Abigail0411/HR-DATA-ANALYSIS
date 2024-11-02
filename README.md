@@ -98,7 +98,13 @@ Addressing attrition in each departments requires a targeted approach tailored t
 - The satisfied group probably left the company because of better opportunities and greater rewards.
 ### Strategic Recommendations
 Workplace environment satisfaction is very crucial to retaining employees. The following should be taken into consideration and implemented;
-- 
+- For Very Dissatisfied and Dissatisfied Employees:
+   * Improvement of their work space should be considered so as to create a comfortable atmosphere.
+   * Implementation of regular survey sessions to identify specific environmental issues inorder to act on them as soon as possible.
+- For Satisfied employees:
+   * Offer career development opportunities such as trainging staffs to keep the employees engaged and connected to the growth of the company.
+   * Implement regular recognition on achivements and offer rewards to increase their satisfaction.
+- For Satisfied employees:
 
 
 
