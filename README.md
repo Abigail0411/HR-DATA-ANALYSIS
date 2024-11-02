@@ -65,6 +65,11 @@ Power Bi: Used to create interactive  visualization on dashboard.
   	Else 0
   	
 ## Data Visualization analysis, Inferences, Strategic Recommendations and Conclusion
+![Screenshot (165)](https://github.com/user-attachments/assets/34a4b0b3-cd52-4338-b4d4-eb155a29e87c)
+![Screenshot (167)](https://github.com/user-attachments/assets/e8bdf9a3-d615-4777-b325-74c2e09d1684)
+![Screenshot (168)](https://github.com/user-attachments/assets/d2f3d15d-6da9-4e5c-8411-c4a91617acf8)
+![Screenshot (169)](https://github.com/user-attachments/assets/429563a1-18e0-4cae-bcaf-e32e25c5ea04)
+
 ## 1. Attrition by Education Field
 ### i. Inferences
 -	Life Sciences and Medical field: High attrition might be due to strees andburnout which might indicate a need for worklife balance. 
