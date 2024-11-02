@@ -35,16 +35,14 @@ The data used was collected from the HR of Cloud Wares company.
   * No. of Companies Worked for
   * Percent Salary Hike
   * Performance rating Relationship Satisfaction
-  * 
-
-•	Standard Hours
-•	Total Working Years
-•	Stock Option Level
-•	Work Life Balance
-•	Work at Company 
-•	Years in Current Role
-•	Years since Last Promotion
-•	Years with Current manager
+  * Standard Hours
+  * Total Working Years
+  * Stock Option Level
+  * Work Life Balance
+  * Work at Company
+  * Years in Current Role
+  * Years since Last Promotion
+  * Years with Current manager
 
 ## Data Tool Used
 Power Bi: Used to create interactive  visualization on dashboard.
