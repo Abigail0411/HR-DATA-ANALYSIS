@@ -104,7 +104,32 @@ Workplace environment satisfaction is very crucial to retaining employees. The f
 - For Satisfied employees:
    * Offer career development opportunities such as trainging staffs to keep the employees engaged and connected to the growth of the company.
    * Implement regular recognition on achivements and offer rewards to increase their satisfaction.
-- For Satisfied employees:
+Conclusion
+Environment satisfaction in workplaces is a critical factor in employees retention. High levels of dissatisfaction lead to greater turnover while satisfaction leads to employee stability. Improving on physical conditions, address specific issues laid out by employees can reduce attrition in a company.
+Attrition by age group and gender
+Inferences
+As shown In the donut chart, male dominated the attrition count with a total of 150 out of 237.
+-	Age group Under 25
+-	   At this stage, employees are seeking for faster advancements in that they prioritize their experience and might leave if  they do not perceive limited growth in the role they were assigned.
+-	In a case where the young employees posses skills that are of high demand such as technology, medical, they tend to receive attractive offers from other companies.
+-	Young employees priorities flexibility and work-life balance and do not like being stressed. If the company does not offer flexible hours of work, they tend to leave.
+
+Age group 25-34
+-	This age group has the highest number of attrition. At this stage, employees are seeking for jobs and roles with growth or leadership opportunities. The attrition count at this age may indicate that the employees felt stagnant in their career.
+-	As employees gain experience and skills, they expect to receive salary that matches their skills or reflects their value. They leave if they find better paying jobs.
+-	Employees in this age group may have just started a family making work life balance a significant factor. Attrition increases if the roles are too involving.
+
+Age group 35-44
+-	Attrition in this age group might be due to them not having promotions or leadership roles.
+-	It could also indicate that the have more financial responsibilities than their pay and they leave if the job is not paying them well.
+
+Age group 45-54
+Attrition at this age group may indicate them not feeling satisfied work or the roles are not aligning to their expertise or due to them not having promotions or leadership roles.
+It might also indicate that the compensation they receive does not meet their financial responsibility.
+
+Age group Over 55
+This age group has the least attrition. At the age, attrition my indicate that 
+the employees are ready and willing to retire and may want to work with flexibility.
 
 
 
