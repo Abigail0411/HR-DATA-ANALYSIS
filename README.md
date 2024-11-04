@@ -30,7 +30,7 @@ The data used was collected from the HR of Cloud Wares company.
   * Business Travel
   * CF_age band
   * CF_attrition Level
-  *	Education Field
+  * Education Field
   * Department
   * Employee Number
   * Gender
