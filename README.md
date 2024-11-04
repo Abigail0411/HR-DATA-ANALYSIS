@@ -83,13 +83,14 @@ Column quality check was carried out on the data tocheck for any errors and make
     ```
 2.	Conditional Function
    i. Used to convert Attritiom text to numbers to find the attrition count
-   |Heading1|Heading2|Heading3|Heading4|
-  	|--------|--------|--------|--------|
-   |Column Name|Operator|Value|Output|
-	  |Attrition|equals|Yes|1|
-  	|Else 0|
   	
-## Data Visualization analysis, Inferences, Strategic Recommendations and Conclusion
+   |Heading 1|Heading 2|Heading 3|Heading 4|
+   |--------|--------|--------|--------|
+   |Column Name|Operator|Value|Output|
+   |Attrition|equals|Yes|1|
+   |Else 0|
+  	
+## Data Visualization
 ---
 ## POWER BI Dashboards
 ![Screenshot (174)](https://github.com/user-attachments/assets/f5667a6d-2dfc-4ce3-8d56-8c96886af
