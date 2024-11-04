@@ -1,11 +1,29 @@
 # HR-DATA-ANALYSIS
+---
+
+## Context
+[Project Overview](#project-overview)
+
+[Project Objectives](#project-objectives)
+
+[Data Sources](#data-sources)
+
+[Data Tool Used](#data-tool-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 
 ## Project Overview
+---
 This project focuses on creating a data-driven approach to analyze attrition rates within a company. The project seeks to uncover trends that forecast future attrition and help Hr make informed decions by examining the employee demographics, performance and othey key metrics.
 
 ## Project Objectives
+---
 This project focuses on analyzing factors that contribute to employees attrition such as the education field, job role and  job satisfaction. It also focuses on identifying and predicting future attrition risk and provide actionable insights and strategic recommendations for HR to improve on employee satisfaction and reduce attrition rates.
-## Data Source
+## Data Sources
 The data used was collected from the HR of Cloud Wares company.
 - Data Collected
   * Attrition
@@ -45,8 +63,14 @@ The data used was collected from the HR of Cloud Wares company.
   * Years with Current manager
 
 ## Data Tool Used
-Power Bi: Used to create interactive  visualization on dashboard.
+---
+Power Bi: Used to create interactive visualization on dashboard.
+
+## Data Cleaning and Preparations
+Column quality check was carried out on the data tocheck for any errors and make sure it it free of errors
+
 ## Data Analysis
+---
 •	Dax Functions 
 1.	Measure
    i. To calculate Attrition rate
@@ -59,12 +83,14 @@ Power Bi: Used to create interactive  visualization on dashboard.
     ```
 2.	Conditional Function
    i. Used to convert Attritiom text to numbers to find the attrition count
-  	|Column Name|Operator|Value|Output|
-  	|-----------|--------|------------|
-  	|Attrition|equals|Yes|1|
-  	Else 0
+   |Heading1|Heading2|Heading3|Heading4|
+  	|--------|--------|--------|--------|
+   |Column Name|Operator|Value|Output|
+	  |Attrition|equals|Yes|1|
+  	|Else 0|
   	
 ## Data Visualization analysis, Inferences, Strategic Recommendations and Conclusion
+---
 ## POWER BI Dashboards
 ![Screenshot (174)](https://github.com/user-attachments/assets/f5667a6d-2dfc-4ce3-8d56-8c96886af
 ![Screenshot (173)](https://github.com/user-attachments/assets/cf4bfc74-cf96-42d3-b847-fe815692889a)
@@ -96,7 +122,7 @@ af9)
 ### iii. Conclusion
 - Effective retention strategies should focus on aligning employee expectations and aspirations, Cloud Wares can create an environment where employees will feel valued and motivated to stay. 
 
-## 2. Attrition count by Job roles and Job satisfaction
+## 2. Attrition count by Job Roles and Job Satisfaction
 ### i. Inferences
 - Satisfied and Very Satisfied: Most of the employees that left the company were satisfied with their job roles but still left the company. This may be due to the following; better opportunities for roles with greater growth potential, or when they receive attractive offers with higher incentives or changes in personal goals.
 - Dissatisfied and Very Dissatisfied: A total of 46 and68 employees were dissatisfied and very dissatisfied with their roles respectively. This may be due to lack of career growth, imbalance work life or inadequate compensation or incentives. 
@@ -107,7 +133,7 @@ af9)
 ### iii. Conclusion
 Addressing dissatisfaction drivers and maintaining satisfaction among the roles will lead to a more motivated and stable workforce.
 
-## 3. Attrition by department
+## 3. Attrition by Department
 ## i. Inferences
 - Research & Development: Has the highest attrition rate with more of the employees satisfied with their Job. This may indicate or suggest lack of clear career  growth or the perception of Limited growth in the company.
 - Sales: The attrition count could arise from the stress that comes with high performance expectations and the pressures  to meet  quotas. 
@@ -122,7 +148,7 @@ Addressing dissatisfaction drivers and maintaining satisfaction among the roles 
 Addressing attrition in each departments requires a targeted approach tailored to each department's needs. The recommendations stated above should be implemented to ensure long-term retention.
 
 
-## 4. Attrition by environment Satisfaction
+## 4. Attrition by Environment Satisfaction
 ### i. Inferences
 - More employees that left were very dissatisfied with their work environment, likely due to lack of support by management, issues with work culture or inadequate facilities to work effectively and efficiently
 - The satisfied group probably left the company because of better opportunities and greater rewards.
@@ -137,7 +163,7 @@ Workplace environment satisfaction is very crucial to retaining employees. The f
 ### iii. Conclusion
 Environment satisfaction in workplaces is a critical factor in employees retention. High levels of dissatisfaction lead to greater turnover while satisfaction leads to employee stability. Improving on physical conditions, address specific issues laid out by employees can reduce attrition in a company.
 
-## 5. Attrition by age group and gender
+## 5. Attrition by Age Group and Gender
 ## i. Inferences
 As shown In the donut chart, male dominated the attrition count with a total of 150 out of 237.
 - #### Age group Under 25
