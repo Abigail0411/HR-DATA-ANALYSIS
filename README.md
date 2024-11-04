@@ -65,7 +65,12 @@ Power Bi: Used to create interactive  visualization on dashboard.
   	Else 0
   	
 ## Data Visualization analysis, Inferences, Strategic Recommendations and Conclusion
-## Dashboards
+## POWER BI Dashboards
+![Screenshot (174)](https://github.com/user-attachments/assets/f5667a6d-2dfc-4ce3-8d56-8c96886af
+![Screenshot (173)](https://github.com/user-attachments/assets/cf4bfc74-cf96-42d3-b847-fe815692889a)
+af9)
+
+
 ## Filtered Dashboard for Life Sciences Education Field
 ![Screenshot (167)](https://github.com/user-attachments/assets/e8bdf9a3-d615-4777-b325-74c2e09d1684)
 ## Filtered Dashboard for Human Resources Education Field
@@ -74,6 +79,8 @@ Power Bi: Used to create interactive  visualization on dashboard.
 ![Screenshot (169)](https://github.com/user-attachments/assets/429563a1-18e0-4cae-bcaf-e32e25c5ea04)
 ## Filtered Dashboard for Master's Degree Education Level
 ![Screenshot (165)](https://github.com/user-attachments/assets/34a4b0b3-cd52-4338-b4d4-eb155a29e87c)
+## Filtered Dashboard for Bachelor's Degree Education Level
+![Screenshot (166)](https://github.com/user-attachments/assets/7ba8b0af-b074-40f6-9dfb-b78062b1dca1)
 
 ## 1. Attrition by Education Field
 ### i. Inferences
